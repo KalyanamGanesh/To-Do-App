@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Nanum+Pen+Script&display=swap');
+
+
+body{
+    margin:0;
+    background-color: rgb(138, 255, 212);
+    font-family: 'Caveat', cursive; 
+    /* font-family: 'Nanum Pen Script', cursive; */
+}
+
+#input{
+    margin:100px 5px 0px 30%;
+    padding:10px 15px;
+    border-radius: 5px;
+    width:30%;
+}
+
+#button,#clear{
+    padding:10px 15px;
+    border-radius: 5px;
+}
+#button{
+    background-color: chartreuse;
+}
+
+#clear{
+    background-color: orangered;
+}
+
+#divis{
+    width:60%;
+    margin:100px 28%;
+}
+
+#upDateBtn{
+    width:100px;
+    padding:5px 5px;
+    margin:10px 10px;
+    background-color: aqua;
+    border-radius: 5px;
+    font-family: cursive;
+}
+
+#dltBtn{
+    padding:5px 15px;
+    border-radius: 5px;
+    margin:10px 10px 0px 10px ;
+    background-color: rgb(238, 17, 17);
+    font-family: cursive;
+    color:white;
+}
+
+#upInput{
+    padding:5px 10px;
+    border-radius: 5px;
+}
+
+#listele{
+    font-size: 2rem;
+    width:100%;
+    position: relative;
+    left:8px;
+
+}
+
+#textD{
+    background-color:orange;
+    width:60%;
+    padding:0.5%;
+    border-radius: 10px;
+    position: relative;
+    left:-15px;
+}
