@@ -71,3 +71,26 @@ body{
     position: relative;
     left:-15px;
 }
+
+@media(max-width:480px){
+    #input{
+        margin:50px 3%;
+        width:50%;
+    }
+    #divis{
+        width:100%;
+        margin:50px 1px;
+        font-size:8px;
+    }
+    #textD{
+        position: relative;
+        left:0px;
+        font-size: 18.3px;
+    }
+    #listele{
+        font-size: 1.3rem;
+        width:100%;
+        position: relative;
+        left:0px;
+    }
+}
